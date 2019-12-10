@@ -1,0 +1,8 @@
+#RESTful API Web server for managing tickets orders
+#Pure node.js ES6
+#Creating HTTP sever 
+#Using modules, streams and events
+#Server side only
+
+#Postman documentation
+https://documenter.getpostman.com/view/9316935/SWE6be7i?version=latest
