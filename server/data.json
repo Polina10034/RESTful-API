@@ -1,0 +1,100 @@
+[
+  {
+    "type": "admin",
+    "id": "1",
+    "date": "10.5.2019",
+    "numTickets": "0",
+    "name": "Bob"
+  },
+  {
+    "type": "user",
+    "id": "2",
+    "date": "10.5.2019",
+    "numTickets": "0",
+    "name": "Ben"
+  },
+  {
+    "type": "user",
+    "id": "3",
+    "date": "10.5.2019",
+    "numTickets": "0",
+    "name": "Kelly"
+  },
+  {
+    "type": "user",
+    "id": "8",
+    "date": "10.5.2019",
+    "numTickets": "0",
+    "name": "Jack"
+  },
+  {
+    "type": "user",
+    "id": "6",
+    "date": "12.5.2019",
+    "numTickets": "0",
+    "name": "Anna"
+  },
+  {
+    "type": "user",
+    "id": "7",
+    "date": "12.5.2019",
+    "numTickets": "0",
+    "name": "Anna"
+  },
+  {
+    "type": "user",
+    "id": "9",
+    "date": "12.5.2019",
+    "numTickets": "0",
+    "name": "Diana"
+  },
+  {
+    "type": "user",
+    "id": "4",
+    "date": "12.5.2019",
+    "numTickets": "0",
+    "name": "Jack"
+  },
+  {
+    "type": "user",
+    "id": "5",
+    "date": "12.5.2019",
+    "numTickets": "0",
+    "name": "Ron"
+  },
+  {
+    "type": "user",
+    "id": "10",
+    "date": "12.5.2019",
+    "numTickets": "2",
+    "name": "Ron"
+  },
+  {
+    "type": "user",
+    "id": "12",
+    "date": "04.05.2020",
+    "numTickets": "1",
+    "name": "Frank"
+  },
+  {
+    "type": "user",
+    "id": "14",
+    "date": "04.05.2020",
+    "numTickets": "1",
+    "name": "Jema"
+  },
+  {
+    "type": "user",
+    "id": "16",
+    "date": "04.05.2020",
+    "numTickets": "1",
+    "name": "Ranny"
+  },
+  {
+    "type": "user",
+    "id": "20",
+    "date": "04.05.2020",
+    "numTickets": "1",
+    "name": "Romy"
+  }
+]

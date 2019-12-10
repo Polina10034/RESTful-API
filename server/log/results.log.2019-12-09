@@ -1,0 +1,7 @@
+{"message":"*** Requested for First log... ***","level":"info","timestamp":"2019-12-09T16:32:17.296Z"}
+{"message":"Test error Log!","level":"error","timestamp":"2019-12-09T16:32:17.297Z"}
+{"message":"listening on port 3000","level":"info","timestamp":"2019-12-09T16:32:17.308Z"}
+{"message":"/getAllLogs called!","level":"info","timestamp":"2019-12-09T16:32:20.592Z"}
+{"message":"Get all logs: {\"message\":\"*** Requested for First log... ***\",\"level\":\"info\",\"timestamp\":\"2019-12-09T16:32:17.296Z\"}\r\n{\"message\":\"Test error Log!\",\"level\":\"error\",\"timestamp\":\"2019-12-09T16:32:17.297Z\"}\r\n{\"message\":\"listening on port 3000\",\"level\":\"info\",\"timestamp\":\"2019-12-09T16:32:17.308Z\"}\r\n{\"message\":\"/getAllLogs called!\",\"level\":\"info\",\"timestamp\":\"2019-12-09T16:32:20.592Z\"}\r\n","level":"info","timestamp":"2019-12-09T16:32:20.603Z"}
+{"message":"/getAllLogs called!","level":"info","timestamp":"2019-12-09T16:32:35.125Z"}
+{"message":"Account: id =2 don't have permition.","level":"info","timestamp":"2019-12-09T16:32:35.125Z"}
